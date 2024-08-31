@@ -64,17 +64,6 @@ jobs:
           plugin_notable_types: commit
           plugin_projects: yes
           plugin_projects_limit: 4
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_mode: image
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: https://damima.im
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
-
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list, about
           plugin_sponsors_size: 24
