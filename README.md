@@ -9,4 +9,3 @@
  </h3> </div>
  <hr/>
 
-i'm damima, an italian developer that likes to code and do stuff
