@@ -3,4 +3,4 @@
 Self-taught 17 year old developer
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=dxamima&theme=dark)](https://git.io/streak-stats)
+[![stats](/github-metrics.svg)](https://dxamima.github.io)
