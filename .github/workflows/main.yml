@@ -26,15 +26,13 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }
 
           # Options
           user: damimaa
-          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Rome
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
+          plugin_discussions_categories: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_sponsors: yes
